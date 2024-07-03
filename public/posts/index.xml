@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog NewAi</title>
+    <link>https://hba.sid.one/posts/</link>
+    <description>Recent content in Posts on Blog NewAi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Jun 2024 20:15:39 +0700</lastBuildDate><atom:link href="https://hba.sid.one/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ứng Dụng Mô Hình AI Để Tạo Sinh Câu Truy Vấn CSDL Dựa Trên Đặc Tả</title>
+      <link>https://hba.sid.one/posts/blogsql2/</link>
+      <pubDate>Wed, 26 Jun 2024 20:15:39 +0700</pubDate>
+      
+      <guid>https://hba.sid.one/posts/blogsql2/</guid>
+      
+      <description>Chương 1 Chương 2 Chương 3 Chương 4 Chương 5 </description>
+      
+    </item>
+    
+    <item>
+      <title>Xây Dựng Tập Dữ Liệu Đặc Tả Cơ Sở Dữ Liệu</title>
+      <link>https://hba.sid.one/posts/blogsql/</link>
+      <pubDate>Wed, 26 Jun 2024 15:02:04 +0700</pubDate>
+      
+      <guid>https://hba.sid.one/posts/blogsql/</guid>
+      
+      <description>Chương 1 Chương 2 Chương 3 Chương 4 Chương 5 </description>
+      
+    </item>
+    
+  </channel>
+</rss>
