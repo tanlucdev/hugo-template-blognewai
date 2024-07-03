@@ -12,7 +12,7 @@ _The database specification (DBS)_ is the backbone of the ezTicket online ticket
 ### 1.1 The ezTicket Data Model: A Visual Map
 The ezTicket data model, often represented using an _Entity-Relationship Diagram (ERD)_, provides a clear picture of the system's data structure. It outlines the various entities (e.g., events, users, tickets), their attributes (e.g., event name, user email), and the relationships between them (e.g., user purchases ticket). This visual representation helps developers understand and work with the data effectively.
 
-![ERD of ezTicket](../../../assets/blog/ERD.png "ERD of ezTicket")
+![ERD of ezTicket](../../images/ERD.png "ERD of ezTicket")
 
 ### 1.2 Building the DBS: A Step-by-Step Process 
 Creating a robust DBS involves a systematic process, from gathering and analyzing requirements to designing the data model, defining constraints, and thoroughly testing the specification. This process ensures that the DBS accurately reflects the system's needs and maintains data integrity.
